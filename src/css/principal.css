@@ -1,0 +1,24 @@
+.principal {
+  background-image: url("/src/image/Background.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.combo__botao {
+  background-color: var(--botao);
+  display: block;
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+.botao-secundario {
+    background: none;
+    border: 2px solid var(--branco);
+}
+
+.combo__aviso {
+    color: var(--cinza);
+    font-size: 12px;
+}
