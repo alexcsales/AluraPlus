@@ -19,7 +19,7 @@
   margin: 1rem 0 2rem 0;
 }
 
-.combo__botao {
+.container__botao {
   background-color: var(--botao);
   display: block;
   border-radius: 5px;
@@ -46,6 +46,10 @@
   width: 80%;
 }
 
+.descricao {
+  padding: 2rem;
+}
+
 .descricao__titulo {
   font-size: 48px;
   font-weight: 700;
@@ -54,4 +58,9 @@
 
 .descricao__texto {
   color: var(--cinza-claro);
+}
+
+.descricao__botao {
+  display: inline-block;
+  margin-top: 1rem;
 }
