@@ -7,7 +7,7 @@
 }
 
 .combo {
-  margin:0 6rem;
+  margin: 0 6rem;
 }
 
 .combo__texto {
@@ -28,18 +28,18 @@
 }
 
 .botao-secundario {
-    background-color: transparent;
-    border: 2px solid var(--branco);
+  background-color: transparent;
+  border: 2px solid var(--branco);
 }
 
 .combo__aviso {
-    color: var(--cinza);
-    font-size: 12px;
+  color: var(--cinza);
+  font-size: 12px;
 }
 
 .secundario {
   align-items: center;
-  margin: 10rem
+  margin: 10rem;
 }
 
 .secundario__imagem {
