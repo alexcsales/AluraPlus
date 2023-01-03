@@ -64,3 +64,22 @@
   display: inline-block;
   margin-top: 1rem;
 }
+
+.dispositivos {
+  text-align: center;
+}
+
+.dispositivos__titulo {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.dispositivos_lista {
+  display: flex;
+  justify-content: center;
+  margin: 5rem 0;
+}
+
+.lista_item {
+  font-size: 32px;
+}
