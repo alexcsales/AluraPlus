@@ -27,6 +27,11 @@
   margin-bottom: 1rem;
 }
 
+.container__botao:hover {
+  transition: 0.5s;
+  opacity: 80%;
+}
+
 .botao-secundario {
   background-color: transparent;
   border: 2px solid var(--branco);
@@ -83,3 +88,29 @@
 .lista_item {
   font-size: 32px;
 }
+.rodape {
+  text-align: center;
+  margin: 6rem 7.5rem;
+}
+
+.rodape__logo {
+  margin-bottom: 40px;
+}
+
+.rodape__lista {
+  display: flex;
+  justify-content: space-around;
+}
+
+.lista__link:hover {
+  opacity: 70%;
+}
+
+.rodape__texto {
+  color: var(--cinza);
+  font-size: 14px;
+  margin: 24px;
+}
+
+
+
