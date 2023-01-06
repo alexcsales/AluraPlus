@@ -6,7 +6,7 @@
 ### ⚙ Features
 - [x] Sessão principal<br>
 - [x] Sessões secundárias<br>
-- [x] Rodape<br>
+- [x] Rodapé<br>
   
  <h1 align="center">
   <img height="20%" width="60%" src="src/image/readme.gif" alt="GIF-Project"/>
