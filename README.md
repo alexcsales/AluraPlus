@@ -9,7 +9,7 @@
 - [x] Rodape<br>
   
  <h1 align="center">
-  <img height="20%" width="60%" alt="GIF-Project"  src=""/>
+  <img height="20%" width="60%" alt="GIF-Project"  src="https://discordapp.com/channels/938625031397855303/938625031397855306/1060936516630757456"/>
 <h1/>
   <hr>
   
