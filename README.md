@@ -1,5 +1,5 @@
 <h1 align='center'>HZC<h1>
-<h3 align='center'>📚Projeto de plataforma de cursos da @alura.</h3>
+<h3 align='center'>📚Projeto de página de marketing da @alura.</h3>
 
 <h4 align='center'>🚧README🚧</h4>
 
