@@ -1,7 +1,7 @@
 <h1 align='center'>HZC<h1>
 <h3 align='center'>📚Projeto de curso: Página inicial de uma plataforma de streaming.</h3>
 
-<h4 align='center'>🚧README🚧</h4>
+<h4 align='center'>🚧README projeto Comcluído🚧</h4>
 
 ### ⚙ Features
 - [x] Sessão principal<br>
