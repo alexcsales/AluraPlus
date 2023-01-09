@@ -1,7 +1,7 @@
 <h1 align='center'>AluraPlus<h1>
-<h3 align='center'>📚Projeto de curso: Página inicial de uma plataforma de streaming.</h3>
+<h3 align='center'>📚Projeto de curso: Página inicial de uma plataforma de streaming.📚</h3>
 
-Tabela de conteúdos
+<h3>Tabela de conteúdos</h3>
 =================
 <!--ts-->
    * <a href="#status">Status</a><br>
@@ -13,7 +13,7 @@ Tabela de conteúdos
    * <a href="#autor">Autor</a><br>
 <!--te-->
 
-<h3 id="status" align='center'>🚧 STATUS: Projeto comcluído🚧</h4>
+<h3 id="status" align='center'>✅ STATUS: Projeto concluído✅</h4>
 
 <h3 id=features>⚙ Features<h3>
 - [x] Sessão principal<br>
