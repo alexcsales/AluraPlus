@@ -16,9 +16,7 @@
 <h3 id="status" align='center'>✅ STATUS: Projeto concluído✅</h4>
 
 <h3 id=features>⚙ Features<h3>
-- [x] Sessão principal<br>
-- [x] Sessões secundárias<br>
-- [x] Footer<br>
+- [x] Layout Desktop<br>
   
  <h1 id="previa" align="center">
   <img height="20%" width="60%" src="src/image/readme.gif" alt="GIF-Project"/>
