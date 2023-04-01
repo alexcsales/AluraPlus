@@ -19,7 +19,7 @@
 - [x] Layout Desktop<br>
   
  <h1 id="previa" align="center">
-  <img height="20%" width="60%" src="src/image/readme.gif" alt="GIF-Project"/>
+  <img height="20%" width="60%" src="src/image/readme.gif" alt="GIF do Projeto"/>
 <h1/>
   <hr>
   
