@@ -17,6 +17,7 @@
 
 <h3 id=features>⚙ Features<h3>
 - [x] Layout Desktop<br>
+- [x] Layout Mobile<br>
   
  <h1 id="previa" align="center">
   <img height="20%" width="60%" src="src/image/readme.gif" alt="GIF do Projeto"/>
